@@ -2,6 +2,7 @@ Hello!
 
 Scope of the project:
 Project includes functional UI tests for https://www.jetbrains.com/idea/buy page
+
 Stack: Playwright + TS
 
 Test automation scope limitations:
