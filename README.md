@@ -40,3 +40,6 @@ FINAL NOTE:
 I have all of the created tests passed.
 Let me know if you have any issues.
 I run them in VS code on a Windows laptop
+
+<img width="651" height="405" alt="image" src="https://github.com/user-attachments/assets/99edb0cc-bc75-47f3-90db-5c40bbebd696" />
+
