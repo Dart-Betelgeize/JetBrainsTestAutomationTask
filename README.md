@@ -7,18 +7,18 @@ Stack: Playwright + TS
 
 Test automation scope limitations:
 
-1. API tests
+1. API tests: 
 According to the testing approach API tests definetly should be prioritized.
 I created a folder for API tests but didn't implement them since I don't have API specifications.
 NOTE: If you are interested I can share with you another my project with API tests so you can have an idea how I would do that
 
-2. Language
+3. Language: 
 I tested only for English language selected due of multiple reasons:
 - To limit the scope since it's just a test assignment
 - There is a huge problem related to reliable locators, in most of the places I was forced to rely on text
 NOTE: In ideal world I would first fix the problem with locators and after consider different approach how to make test adaptive for different languages selected
 
-3. E2E UI tests
+3. E2E UI tests: 
 E2E tests should include the full flow with product selection, payments, download.
 Since it's a production I am limited with the actions I can do: I can't pay, I don't have test account, etc.
 Thats why E2E tests are not implemented
